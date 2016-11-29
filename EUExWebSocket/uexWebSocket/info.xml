@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin
+        uexName="uexWebSocket" version="4.0.0" build="0">
+        <info>0:新增4.0插件</info>
+    </plugin>
+</uexplugins>
+
